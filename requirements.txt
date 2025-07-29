@@ -1,1 +1,15 @@
 # To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+numpy
+pandas
+requests
+tqdm
+sqlalchemy
+psycopg2-binary
+neo4j
+py2neo
+duckdb
+langchain
+langgraph
+openai
+chromadb
+sentence-transformers
